@@ -1,0 +1,6 @@
+JSON
+{
+  "routes": [
+    { "src": "/", "dest": "/public/index.html" }
+  ]
+}
